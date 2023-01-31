@@ -1,0 +1,416 @@
+{
+  "activeModules": [
+    {
+      "id": "advanced-macros",
+      "title": "Advanced Macros",
+      "version": ""
+    },
+    {
+      "id": "enhancedcombathud",
+      "title": "Argon - Combat HUD",
+      "version": ""
+    },
+    {
+      "id": "auto-roll-npc-save-5e",
+      "title": "Auto Roll NPC Save DnD5e",
+      "version": ""
+    },
+    {
+      "id": "babele",
+      "title": "Babele",
+      "version": ""
+    },
+    {
+      "id": "betterrolls5e",
+      "title": "Better Rolls for 5e",
+      "version": ""
+    },
+    {
+      "id": "chatdamageswnr",
+      "title": "Chat Damage Buttons SWNR",
+      "version": ""
+    },
+    {
+      "id": "combat-carousel",
+      "title": "Combat Carousel",
+      "version": ""
+    },
+    {
+      "id": "combat-enhancements",
+      "title": "Combat Enhancements",
+      "version": ""
+    },
+    {
+      "id": "combat-numbers",
+      "title": "Combat Numbers",
+      "version": ""
+    },
+    {
+      "id": "combat-utility-belt",
+      "title": "Combat Utility Belt",
+      "version": ""
+    },
+    {
+      "id": "compendium-folders",
+      "title": "Compendium Folders",
+      "version": ""
+    },
+    {
+      "id": "dfreds-convenient-effects",
+      "title": "DFreds Convenient Effects",
+      "version": ""
+    },
+    {
+      "id": "dfreds-droppables",
+      "title": "DFreds Droppables",
+      "version": ""
+    },
+    {
+      "id": "Dynamic-Effects-SRD",
+      "title": "Dynamic Active Effects SRD",
+      "version": ""
+    },
+    {
+      "id": "dae",
+      "title": "Dynamic effects using Active Effects",
+      "version": ""
+    },
+    {
+      "id": "easy-target",
+      "title": "Easy Target",
+      "version": ""
+    },
+    {
+      "id": "forien-quest-log",
+      "title": "Forien's Quest Log",
+      "version": ""
+    },
+    {
+      "id": "dnd5e_fr-FR",
+      "title": "fr-FR - DND5 System",
+      "version": ""
+    },
+    {
+      "id": "fr-core",
+      "title": "FR - Traduction du core",
+      "version": ""
+    },
+    {
+      "id": "fxmaster",
+      "title": "FXMaster",
+      "version": ""
+    },
+    {
+      "id": "gm-notes",
+      "title": "GM Notes",
+      "version": ""
+    },
+    {
+      "id": "initiative-double-click",
+      "title": "Initiative Double Click",
+      "version": ""
+    },
+    {
+      "id": "innocenti-loot",
+      "title": "Innocenti's Loot",
+      "version": ""
+    },
+    {
+      "id": "animated-spell-effects",
+      "title": "Jack Kerouac's Animated Spell Effects",
+      "version": ""
+    },
+    {
+      "id": "animated-tokens",
+      "title": "Jack Kerouac's Animated Tokens",
+      "version": ""
+    },
+    {
+      "id": "JB2A_DnD5e",
+      "title": "JB2A - Jules and Ben's Animated Assets - Free Content",
+      "version": "2"
+    },
+    {
+      "id": "jaamod",
+      "title": "Jinker's Animated Art Pack",
+      "version": ""
+    },
+    {
+      "id": "lasers",
+      "title": "Lasers and Lightbeams",
+      "version": ""
+    },
+    {
+      "id": "lessfog",
+      "title": "Less Fog",
+      "version": ""
+    },
+    {
+      "id": "colorsettings",
+      "title": "lib - Color Settings",
+      "version": ""
+    },
+    {
+      "id": "lib-wrapper",
+      "title": "libWrapper",
+      "version": "0"
+    },
+    {
+      "id": "link-item-resource-5e",
+      "title": "Link Item and Resource DnD5e",
+      "version": ""
+    },
+    {
+      "id": "lootpopulatornpc5e",
+      "title": "Loot populater NPC | 5e",
+      "version": ""
+    },
+    {
+      "id": "lootsheetnpc5e",
+      "title": "LootsheetNPC5e",
+      "version": ""
+    },
+    {
+      "id": "free-loot-tavern-compendium",
+      "title": "Loot Tavern Free Item Compendium",
+      "version": ""
+    },
+    {
+      "id": "magicitems",
+      "title": "Magic Items",
+      "version": ""
+    },
+    {
+      "id": "_mathjs",
+      "title": "Math.js",
+      "version": "vtt2"
+    },
+    {
+      "id": "midi-qol",
+      "title": "Midi QOL",
+      "version": ""
+    },
+    {
+      "id": "midi-srd",
+      "title": "Midi SRD",
+      "version": ""
+    },
+    {
+      "id": "monsterblock",
+      "title": "Monster Blocks",
+      "version": ""
+    },
+    {
+      "id": "more-hooks-5e",
+      "title": "More Hooks D&D5e",
+      "version": ""
+    },
+    {
+      "id": "npc-chatter",
+      "title": "NPC Chatter",
+      "version": ""
+    },
+    {
+      "id": "parallaxia",
+      "title": "Parallaxia",
+      "version": ""
+    },
+    {
+      "id": "perfect-vision",
+      "title": "Perfect Vision",
+      "version": ""
+    },
+    {
+      "id": "pings",
+      "title": "Pings",
+      "version": ""
+    },
+    {
+      "id": "polyglot",
+      "title": "Polyglot",
+      "version": ""
+    },
+    {
+      "id": "popout",
+      "title": "PopOut!",
+      "version": ""
+    },
+    {
+      "id": "quick-encounters",
+      "title": "Quick Encounters",
+      "version": ""
+    },
+    {
+      "id": "settings-extender",
+      "title": "Settings Extender",
+      "version": ""
+    },
+    {
+      "id": "foundryvtt-simple-calendar",
+      "title": "Simple Calendar",
+      "version": ""
+    },
+    {
+      "id": "socketlib",
+      "title": "socketlib",
+      "version": ""
+    },
+    {
+      "id": "SoundBoard",
+      "title": "SoundBoard by Blitz",
+      "version": ""
+    },
+    {
+      "id": "splatter",
+      "title": "Splatter",
+      "version": ""
+    },
+    {
+      "id": "split-journal",
+      "title": "Split Journal",
+      "version": ""
+    },
+    {
+      "id": "srd-heros-et-dragons",
+      "title": "srd-heros-et-dragons",
+      "version": ""
+    },
+    {
+      "id": "stairways",
+      "title": "Stairways (Teleporter)",
+      "version": ""
+    },
+    {
+      "id": "furnace",
+      "title": "The Furnace",
+      "version": ""
+    },
+    {
+      "id": "tidy5e-sheet",
+      "title": "Tidy5e Sheet",
+      "version": ""
+    },
+    {
+      "id": "tidy-ui_game-settings",
+      "title": "Tidy UI - Game Settings",
+      "version": ""
+    },
+    {
+      "id": "times-up",
+      "title": "Times Up",
+      "version": ""
+    },
+    {
+      "id": "toa",
+      "title": "TOA",
+      "version": ""
+    },
+    {
+      "id": "token-action-hud",
+      "title": "Token Action HUD",
+      "version": ""
+    },
+    {
+      "id": "token-info-icons",
+      "title": "Token Info Icons",
+      "version": ""
+    },
+    {
+      "id": "tokenmagic",
+      "title": "Token Magic FX",
+      "version": ""
+    },
+    {
+      "id": "token-mold",
+      "title": "Token Mold",
+      "version": ""
+    },
+    {
+      "id": "trigger-happy",
+      "title": "Trigger Happy",
+      "version": ""
+    },
+    {
+      "id": "turnmarker",
+      "title": "Turn Marker",
+      "version": ""
+    },
+    {
+      "id": "uchideshi34-doip-maps",
+      "title": "uchideshi34's Dragon of Icespire Peak Maps",
+      "version": ""
+    },
+    {
+      "id": "uchideshi34-lmop-maps",
+      "title": "uchideshi34's Lost Mine of Phandelver Maps",
+      "version": ""
+    },
+    {
+      "id": "dd-import",
+      "title": "Universal Battlemap Importer",
+      "version": ""
+    },
+    {
+      "id": "VoiceActor",
+      "title": "VoiceActor by Blitz",
+      "version": ""
+    }
+  ],
+  "inactiveModules": [
+    {
+      "id": "betternpcsheet5e",
+      "title": "Better NPC Sheet 5e",
+      "version": ""
+    },
+    {
+      "id": "blood-n-guts",
+      "title": "Blood 'n Guts",
+      "version": ""
+    },
+    {
+      "id": "bubblerolls",
+      "title": "BubbleRolls",
+      "version": ""
+    },
+    {
+      "id": "CommunityLighting",
+      "title": "CommunityLighting by Blitz",
+      "version": ""
+    },
+    {
+      "id": "ddb-importer",
+      "title": "D&D Beyond Importer",
+      "version": ""
+    },
+    {
+      "id": "dnd-ui",
+      "title": "DnD5e Ui",
+      "version": ""
+    },
+    {
+      "id": "foundryvtt-mountup",
+      "title": "FoundryVTT Mount Up!",
+      "version": ""
+    },
+    {
+      "id": "token-attacher",
+      "title": "Token Attacher",
+      "version": ""
+    },
+    {
+      "id": "token-z",
+      "title": "Token Z",
+      "version": ""
+    },
+    {
+      "id": "vtta-core",
+      "title": "VTTA Core",
+      "version": ""
+    },
+    {
+      "id": "vtta-ddb",
+      "title": "VTTA D&D Beyond Integration",
+      "version": ""
+    }
+  ]
+}
